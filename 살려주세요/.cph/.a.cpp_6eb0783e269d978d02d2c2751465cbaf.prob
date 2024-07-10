@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"c:\\Users\\User\\Desktop\\scpc\\살려주세요\\a.cpp","tests":[{"id":1720196472181,"input":"1\n12\n2 3 2 3 4 3 2 3 2 1 2 2\n3\n1 12\n2 7\n3 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\scpc\\살려주세요\\a.cpp","group":"local","local":true}
